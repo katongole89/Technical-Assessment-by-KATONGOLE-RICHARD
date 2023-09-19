@@ -1,0 +1,5 @@
+In this penguin dataset, we found that the average body mass of the penguins is approximately 4201.75 grams,
+and the average bill length is around 43.92 mm. This suggests that there may be a correlation between body mass and bill length,
+which could indicate that penguins with longer bills tend to have higher body masses. Additionally, when examining the species
+and bill depth, we observed that Adelie penguins have an average bill depth of 18.35 mm. This highlights potential variations
+in bill characteristics among different species.
